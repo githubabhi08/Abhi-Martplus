@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Abhi-Martplus/static/css/main.bf9f9e0e.css",
+    "main.js": "/Abhi-Martplus/static/js/main.cbbafbb7.js",
+    "static/js/787.5e606d4b.chunk.js": "/Abhi-Martplus/static/js/787.5e606d4b.chunk.js",
+    "index.html": "/Abhi-Martplus/index.html",
+    "main.bf9f9e0e.css.map": "/Abhi-Martplus/static/css/main.bf9f9e0e.css.map",
+    "main.cbbafbb7.js.map": "/Abhi-Martplus/static/js/main.cbbafbb7.js.map",
+    "787.5e606d4b.chunk.js.map": "/Abhi-Martplus/static/js/787.5e606d4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf9f9e0e.css",
+    "static/js/main.cbbafbb7.js"
+  ]
+}
